@@ -147,10 +147,7 @@ if __name__ == '__main__':
                                                 "utd-sessions-max",
                                                 "utd-engine-status",
                                                 "utd-file-analysis-file-upload-state",
-                                                "utd-notification",
-                                                "zbfw-sessions-maximum",
-                                                "zbfw-sess-rate-alert-on", 
-                                                "zbfw-sess-rate-alert-off" 
+                                                "utd-notification"
                                              ],
                                     "field": "eventname",
                                     "type": "string",
